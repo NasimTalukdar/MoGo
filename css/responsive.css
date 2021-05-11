@@ -1,0 +1,519 @@
+/* extra small device start */
+@media (min-width:50px) and (max-width:575px) {
+
+    .navbar-light .navbar-toggler {
+        color: #F38181;
+
+    }
+
+    .navbar-toggler {
+        font-size: 30px;
+        padding: 5px 10px !important;
+    }
+
+    .nav-item:first-child {
+        margin-top: 20px;
+    }
+
+    .nav-item {
+        margin-bottom: 10px;
+    }
+
+    .navbar .navbar-nav .nav-item .nav-link {
+        margin: 0;
+    }
+
+    .navbar .navbar-nav .nav-item .nav-link:hover::after {
+        width: 20%;
+    }
+
+    .navbar .navbar-nav .nav-item .active::after {
+        width: 20%;
+    }
+
+    #banner .bannerItem {
+        padding-top: 110px;
+        padding-bottom: 50px;
+    }
+
+    #banner .bannerItem .bannerContent h4 {
+        font-size: 47px;
+        padding-bottom: 35px;
+    }
+
+    #banner .bannerItem .bannerContent h3 {
+        font-size: 38px;
+    }
+
+    #banner .bannerItem .bannerContent h3::after {
+        bottom: -65px;
+    }
+
+    #banner .bannerItem .bannerContent a {
+        margin-top: 120px;
+    }
+
+    #about {
+        margin-top: 60px;
+    }
+
+    #about .aboutItem {
+        margin-top: 50px;
+    }
+
+    #funFact {
+        margin-top: 70px;
+    }
+
+    #service {
+        margin-top: 60px;
+    }
+
+    .serviceIcon {
+        text-align: center;
+        margin-bottom: 10px;
+    }
+
+    .serviceDetails h5 {
+        text-align: center;
+    }
+
+    #design {
+        margin-top: 60px;
+        padding-top: 70px;
+        margin-bottom: 65px;
+    }
+
+    #design .mobile {
+        bottom: -100px;
+        right: 0px;
+    }
+
+    #whatWeDo .whatWeContent {
+        margin-top: 45px;
+    }
+
+    .whatWeImg {
+        margin-bottom: 10px;
+    }
+
+    #message {
+        margin-top: 60px;
+        padding-top: 50px;
+    }
+
+    .messageContent {
+        margin-right: 10px;
+    }
+
+    #message .messageslider .messageContent .messageImg img {
+        width: 50%;
+    }
+
+    #message .messageslider .messageContent .messageImg {
+        padding: 42px 0px;
+        border: none;
+    }
+
+    #team .teamItem {
+        margin-top: 50px;
+    }
+
+    #brand {
+        margin-top: 65px;
+    }
+
+    #work {
+        margin-top: 60px;
+    }
+
+    #work .glItem {
+        margin-top: 65px;
+    }
+
+    #feedback .feedbackSlider .feedbackcontent .feedbackImg {
+        margin-bottom: 10px;
+    }
+
+    #feedback .feedbackSlider .feedbackcontent .feedbackImg img {
+        width: 50%;
+        margin: 0 auto;
+    }
+
+    .feedbackcontent p,
+    h5 {
+        text-align: center;
+    }
+
+    #feedback .feedbackSlider .feedbackcontent h5::after {
+        left: 25px;
+    }
+
+    #clients {
+        margin-top: 70px;
+        padding-top: 80px;
+        padding-bottom: 40px;
+    }
+
+    #clients .clientsItem .clientsImg {
+        text-align: center;
+        margin-bottom: 15px;
+    }
+
+    #clients .clientsItem .clientsImg img {
+        width: 50%;
+    }
+
+    #clients .clientsItem .clientsDetails h6 {
+        margin-top: 20px !important;
+    }
+
+    #blog {
+        margin-top: 65px;
+    }
+
+    #map {
+        margin-top: 65px;
+    }
+
+    footer .footergellary {
+        text-align: center;
+    }
+
+    footer .footergellary ul {
+        justify-content: center;
+    }
+
+    footer .footercontent1 .footerItemContact ul li {
+        margin-right: 17px;
+    }
+
+    footer .footercontent1 .footerItemContact input {
+        width: 50%;
+    }
+
+    #message .slick-next {
+        display: none;
+    }
+
+    #message .messageslider .messageContent h5 {
+        left: 0px;
+    }
+
+    #message .messageslider .messageContent h5::after {
+        left: -15px;
+    }
+
+    footer {
+        padding-top: 35px;
+    }
+
+    footer .footerBlog h4 {
+        margin-top: 20px !important;
+        margin-bottom: 20px !important;
+    }
+
+    footer .footergellary h4 {
+        margin-top: 20px !important;
+        margin-bottom: 20px !important;
+    }
+
+
+}
+
+/* extra small device ends */
+/* small device start */
+@media (min-width:576px) and (max-width:767px) {
+    .navbar-light .navbar-toggler {
+        color: #F38181;
+
+    }
+
+    .navbar-toggler {
+        font-size: 30px;
+        padding: 5px 10px !important;
+    }
+
+    .navbar .navbar-nav .nav-item .nav-link:hover::after {
+        width: 20%;
+    }
+
+    .nav-item:first-child {
+        margin-top: 20px;
+    }
+
+    .nav-item {
+        margin-bottom: 10px;
+    }
+
+    .navbar .navbar-nav .nav-item .nav-link {
+        margin: 0;
+    }
+
+    .navbar .navbar-nav .nav-item .nav-link:hover::after {
+        width: 20%;
+    }
+
+    #banner .bannerItem {
+        padding-top: 170px;
+    }
+
+    #banner .bannerItem .bannerContent h3 {
+        font-size: 58px;
+    }
+
+    #banner .bannerItem {
+        padding-top: 110px;
+        padding-bottom: 50px;
+    }
+
+    #banner .bannerItem .bannerContent h4 {
+        font-size: 47px;
+        padding-bottom: 35px;
+    }
+
+
+
+    #banner .bannerItem .bannerContent h3::after {
+        bottom: -65px;
+    }
+
+    #banner .bannerItem .bannerContent a {
+        margin-top: 120px;
+    }
+
+    #about {
+        margin-top: 60px;
+    }
+
+    #about .aboutItem {
+        margin-top: 50px;
+    }
+
+    #funFact {
+        margin-top: 70px;
+    }
+
+    #service {
+        margin-top: 60px;
+    }
+
+    .serviceIcon {
+        text-align: center;
+        margin-bottom: 10px;
+    }
+
+    .serviceDetails h5 {
+        text-align: center;
+    }
+
+    #design {
+        margin-top: 60px;
+        padding-top: 70px;
+        margin-bottom: 65px;
+    }
+
+    #design .mobile {
+        bottom: -90px;
+        right: 20px;
+    }
+
+    #whatWeDo .whatWeContent {
+        margin-top: 45px;
+    }
+
+    .whatWeImg {
+        margin-bottom: 10px;
+    }
+
+    #message {
+        margin-top: 60px;
+        padding-top: 50px;
+    }
+
+    .messageContent {
+        margin-right: 10px;
+    }
+
+    #message .messageslider .messageContent .messageImg img {
+        width: 80%;
+    }
+
+    #message .messageslider .messageContent .messageImg {
+        padding: 42px 97px;
+    }
+
+    #team .teamItem {
+        margin-top: 50px;
+    }
+
+    #brand {
+        margin-top: 65px;
+    }
+
+    #work {
+        margin-top: 60px;
+    }
+
+    #work .glItem {
+        margin-top: 65px;
+    }
+
+    #feedback .feedbackSlider .feedbackcontent .feedbackImg {
+        margin-bottom: 10px;
+    }
+
+    #feedback .feedbackSlider .feedbackcontent .feedbackImg img {
+        width: 50%;
+        margin: 0 auto;
+    }
+
+    .feedbackcontent p,
+    h5 {
+        text-align: center;
+    }
+
+    #feedback .feedbackSlider .feedbackcontent h5::after {
+        left: 100px;
+    }
+
+    #clients {
+        margin-top: 70px;
+        padding-top: 80px;
+        padding-bottom: 40px;
+    }
+
+    #clients .clientsItem .clientsImg {
+        text-align: center;
+        margin-bottom: 15px;
+    }
+
+    #clients .clientsItem .clientsImg img {
+        width: 50%;
+    }
+
+    #clients .clientsItem .clientsDetails h6 {
+        margin-top: 20px !important;
+    }
+
+    #blog {
+        margin-top: 65px;
+    }
+
+    #map {
+        margin-top: 65px;
+    }
+
+    footer .footergellary {
+        text-align: center;
+    }
+
+    footer .footergellary ul {
+        justify-content: center;
+    }
+
+    footer .footercontent1 .footerItemContact ul li {
+        margin-right: 17px;
+    }
+
+    footer .footercontent1 .footerItemContact input {
+        width: 50%;
+    }
+
+    #message .slick-next {
+        display: none;
+    }
+
+    #message .messageslider .messageContent h5 {
+        left: 25px;
+    }
+
+    #message .messageslider .messageContent h5::after {
+        left: 80px;
+    }
+
+    footer {
+        padding-top: 35px;
+    }
+
+    footer .footerBlog h4 {
+        margin-top: 20px !important;
+        margin-bottom: 20px !important;
+    }
+
+    footer .footergellary h4 {
+        margin-top: 20px !important;
+        margin-bottom: 20px !important;
+    }
+}
+
+/* small device ends */
+/* medium device start */
+@media (min-width:768px) and (max-width:991px) {
+    .navbar-light .navbar-toggler {
+        color: #F38181;
+
+    }
+
+    .navbar .navbar-nav .nav-item .nav-link:hover::after {
+        width: 20%;
+    }
+
+    .navbar-toggler {
+        font-size: 30px;
+        padding: 5px 10px !important;
+    }
+
+    .nav-item:first-child {
+        margin-top: 20px;
+    }
+
+    .nav-item {
+        margin-bottom: 10px;
+    }
+
+    .navbar .navbar-nav .nav-item .nav-link {
+        margin: 0;
+    }
+
+    .navbar .navbar-nav .nav-item .nav-link:hover::after {
+        width: 20%;
+    }
+
+    #banner .bannerItem .bannerContent h3 {
+        font-size: 79px;
+    }
+
+    #design .mobile {
+        bottom: -130px;
+        right: 4px;
+    }
+
+    #message .messageslider .messageContent .messageImg {
+        padding: 0;
+        border: none;
+    }
+
+    #message .messageslider .messageContent .messageImg img {
+        width: 50%;
+    }
+
+    #feedback .feedbackSlider .feedbackcontent .feedbackImg img {
+        width: 25%;
+    }
+
+    #clients .clientsItem .clientsImg img {
+        width: 25%;
+        margin-bottom: 20px;
+    }
+
+    footer .footergellary {
+        text-align: center;
+    }
+
+    footer .footergellary ul {
+        justify-content: center;
+    }
+}
+
+/* medium device ends */
